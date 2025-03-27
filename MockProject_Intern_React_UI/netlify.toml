@@ -1,0 +1,4 @@
+[build]
+base = "MockProject_Intern_React_UI"
+command = "npm run build"
+publish = "MockProject_Intern_React_UI/build"
